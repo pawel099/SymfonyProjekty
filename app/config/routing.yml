@@ -1,0 +1,8 @@
+webinar:
+    resource: "@webinarBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
